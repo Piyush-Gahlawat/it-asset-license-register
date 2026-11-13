@@ -1,0 +1,4 @@
+Asset ID,Device Type,Model,Assigned To,Purchase Date,Warranty Expiry,Status
+AST-001,Laptop,Dell Latitude 5420,Piyush Gahlawat,01/01/2024,01/01/2027,Active
+AST-002,Server,Dell PowerEdge R750,Data Center,15/05/2023,15/05/2028,Active
+AST-003,Laptop,MacBook Pro 14,Jane Doe,10/11/2021,10/11/2024,Retired
